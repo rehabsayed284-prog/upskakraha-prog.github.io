@@ -1,0 +1,95 @@
+.school-header{
+	height : 160px;
+	width : 100%;
+	background-color : #FFC107;
+}
+.div-logo{
+	height:120px;
+    margin:10px;
+	float: left;
+
+}
+.div-logo img {
+	height:100%;
+	width:auto;
+}	
+
+.header-text{
+ 	text-align:center;
+ 	font-family:"Helvetica Neue";
+ 	font-weight: bold;
+ 	color:black;
+ 	font-size: 50px;
+ }
+
+.site-content{
+	background-color: silver;
+	margin-tops:0px;
+
+}
+
+.schoolphoto{
+	background-image: url("Annualfunction3.jpg");
+}
+
+.photo-section {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin: 40px 0;
+}
+
+.photo-card {
+    text-align: center;
+}
+
+.photo-card img {
+    width: 180px;
+    height: 200px;
+    object-fit: cover;
+    border: 3px solid #f4b400; /* yellow border */
+    border-radius: 8px;
+}
+
+.photo-card p {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.photo-card span {
+    font-size: 14px;
+    font-weight: normal;
+    color: #555;
+}
+.headings{
+	text-align:center;
+	color:blue;
+	background-color: white;
+	border-color:blueviolet;
+}
+.yoga-section{
+	background-color: #C1E1C1;
+}
+.summercamp-section{
+	background-color: #F0E68C;
+}
+.ANAEMIA-section{
+	background-color: #F5F5DC;
+}
+.annualfunction{
+	background-color: #FFEFD5;
+}
+.assessment{
+	background-color: silver;
+}
+.ecoclub{
+	background-color: green;
+}
+.footer{
+	width:100%;
+	margin-top:20px;
+	background-color: silver;
+	height:100px;
+}
+}
